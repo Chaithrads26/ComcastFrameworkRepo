@@ -24,6 +24,8 @@ PageFactory.initElements(driver, this);
 	
 	@FindBy(linkText = "Contacts")
 	private WebElement contLink;
+	@FindBy(linkText = "Products")
+	private WebElement productlink;
 	
 	@FindBy(linkText = "More")
 	private WebElement moreLink;
