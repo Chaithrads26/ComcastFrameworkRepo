@@ -7,6 +7,7 @@ public class NewClass {
 		System.out.println("Sam added");
 		System.out.println("test");
 		System.out.println("sample");
+		System.out.println(("sam did changs"));
 	}
 
 }
